@@ -1,0 +1,10 @@
+bs4==0.0.1
+requests==2.18.4
+Pillow
+wrapcache==1.0.8
+ntplib
+selenium==3.11.0
+fake-useragent==0.1.11
+tensorflow==1.14.0
+keras==2.2.4
+opencv-python
